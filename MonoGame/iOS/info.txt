@@ -1,4 +1,4 @@
-Copy MonoGame for iOS assemblies here:
+Copy MonoGame for iOS assemblies here.
 
-* Lidgren.Network.dll
-* MonoGame.Framework.dll
+- Lidgren.Network.dll
+- MonoGame.Framework.dll
