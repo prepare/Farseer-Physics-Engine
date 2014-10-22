@@ -1,0 +1,3 @@
+Copy MonoGame for MacOs assemblies here:
+
+* MonoGame.Framework.dll
