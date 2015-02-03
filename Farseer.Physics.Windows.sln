@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer.Physics.Windows", "Farseer Physics Engine 3.5\Farseer.Physics.Windows.csproj", "{8A159C72-334E-4B01-81D6-F4DA4999C64B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A159C72-334E-4B01-81D6-F4DA4999C64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A159C72-334E-4B01-81D6-F4DA4999C64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A159C72-334E-4B01-81D6-F4DA4999C64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A159C72-334E-4B01-81D6-F4DA4999C64B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
